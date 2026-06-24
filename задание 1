@@ -1,0 +1,16 @@
+#include <iostream>
+#include <cmath> using namespace std;
+int main () {
+int a, P, S ;
+cout <<" введите число а";
+cin >> a;
+P = 4 * a;
+S = a * a;
+if (P > S) {
+cout «<" Периметр больше Площади или
+}
+else {
+｝
+cout «<" Площадь больше Периметра или П
+return 0;
+}
